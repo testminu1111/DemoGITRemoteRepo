@@ -8,7 +8,10 @@ public class TC_001 {
 
     void m1(){
 
-        System.out.println("This is my First Java PGM");
+        System.out.println("This is my First Java PGM1");
+         System.out.println("This is my First Java PGM2");
+         System.out.println("This is my First Java PGM3");
+         System.out.println("This is my First Java PGM4");
     }
 
 
