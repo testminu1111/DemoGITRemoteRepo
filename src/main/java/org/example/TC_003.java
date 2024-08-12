@@ -15,6 +15,13 @@ public class TC_003 {
     }
 
 
+    void m2(){
+
+        System.out.println("This is my First Java PGM1");
+        System.out.println("This is my First Java PGM2");
+        System.out.println("This is my First Java PGM3");
+        System.out.println("This is my First Java PGM4");
+    }
 
 
 }
