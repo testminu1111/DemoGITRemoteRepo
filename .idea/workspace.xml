@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3624d181-f15b-457e-82da-b49ec0984d08" name="Changes" comment="1st commit @ 18.44">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TC_002.java" afterDir="false" />
+    <list default="true" id="3624d181-f15b-457e-82da-b49ec0984d08" name="Changes" comment="3 rd Commit File @7.41 on 12/8/24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TC_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TC_003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="QA1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.TC_001.m1.executor": "Run",
     "TestNG.TC_003.m1.executor": "Run",
-    "git-widget-placeholder": "QA1",
+    "git-widget-placeholder": "Feature2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Automation_123/AutomaxV2",
     "onboarding.tips.debug.path": "D:/Automation_123/DemoGIT/src/main/java/org/example/Main.java",
@@ -68,7 +67,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TC_003.m1">
     <configuration name="TC_001.m1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DemoGIT" />
       <extension name="coverage">
@@ -105,8 +104,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TC_003.m1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoGIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TC_003" />
+      <option name="METHOD_NAME" value="m1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TC_003.m1" />
         <item itemvalue="TestNG.TC_001.m1" />
         <item itemvalue="TestNG.TC_002.m1" />
         <item itemvalue="TestNG.TC_001.m1" />
@@ -147,7 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723390150043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2nd Commit 7.33 am on 12/8/24">
+      <option name="closed" value="true" />
+      <created>1723428256838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723428256838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 rd Commit File @7.41 on 12/8/24">
+      <option name="closed" value="true" />
+      <created>1723428733063</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723428733063</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3 rd Commit File @7.41 on 12/8/24">
+      <option name="closed" value="true" />
+      <created>1723428957789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723428957789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -201,7 +243,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit @ 18.43" />
     <MESSAGE value="1st commit @ 18.44" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit @ 18.44" />
+    <MESSAGE value="2nd Commit 7.33 am on 12/8/24" />
+    <MESSAGE value="3 rd Commit File @7.41 on 12/8/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 rd Commit File @7.41 on 12/8/24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
